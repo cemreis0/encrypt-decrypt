@@ -2,6 +2,7 @@ import random
 
 
 ALPHABET = "abcdefghijklmnopqrstuvwxyz"
+random.seed(199)
 
 
 def replacespace(text_list):
